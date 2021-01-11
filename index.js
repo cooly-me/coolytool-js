@@ -42,4 +42,5 @@ function isEmpty(param){
     }
 }
 
-modules.exports = isEmpty;
+
+module.exports.isEmpty = isEmpty;

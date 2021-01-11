@@ -1,6 +1,6 @@
 {
   "name": "coolytool-js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/cooly-me/coolytool-js.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "js",
+    "nodejs",
+    "empty"
+  ],
+  "author": "maizai",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cooly-me/coolytool-js/issues"
